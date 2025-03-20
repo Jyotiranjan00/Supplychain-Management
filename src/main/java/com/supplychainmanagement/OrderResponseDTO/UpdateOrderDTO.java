@@ -9,6 +9,8 @@ public class UpdateOrderDTO {
     private Double totalamount;
     private String status;
     private Long trackingnumber;
+    
+    //Getters and Setters
 	public int getId() {
 		return id;
 	}

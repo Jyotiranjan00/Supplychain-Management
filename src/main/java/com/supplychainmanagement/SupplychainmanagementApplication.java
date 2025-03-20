@@ -9,7 +9,7 @@ public class SupplychainmanagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SupplychainmanagementApplication.class, args);
 		
-		System.out.println("Apllication Started Successfully");
+		System.out.println("SpringBoot Apllication Started Successfully");
 	}
 
 }
